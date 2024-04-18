@@ -1,0 +1,1 @@
+{"Path":"/Users/sjeyendran/devops/Terraform/terraform-course/demo-6","Version":"2.0","Modules":[{"Key":"consul","Source":"github.com/wardviaene/terraform-consul-module.git?ref=terraform-0.12","Dir":".infracost/terraform_modules/aa1daa3fd66d150081a088173c756c1f","DownloadURL":""}]}
